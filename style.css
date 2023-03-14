@@ -1,0 +1,26 @@
+body{
+    background-color: blueviolet;
+    font-family: 'Crimson Text', monospace;
+
+}
+
+h1{
+    text-align: center;
+}
+h3.uno{
+    color: rgb(226, 87, 110);
+}
+img{
+    padding: 20px;
+    margin: 20px;
+}
+img.ola{
+    height: auto;
+    width: 400px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
